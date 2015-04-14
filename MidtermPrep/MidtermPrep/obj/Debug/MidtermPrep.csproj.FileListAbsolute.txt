@@ -1,0 +1,24 @@
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\bin\Debug\MidtermPrep.exe.config
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\bin\Debug\MidtermPrep.exe
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\bin\Debug\MidtermPrep.pdb
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.csprojResolveAssemblyReference.cache
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.Form1.resources
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.Properties.Resources.resources
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.csproj.GenerateResource.Cache
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.exe
+c:\users\ильхом\documents\visual studio 2012\Projects\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.pdb
+C:\Users\Ильхом\Desktop\MidtermPrep\MidtermPrep\bin\Debug\MidtermPrep.exe.config
+C:\Users\Ильхом\Desktop\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.exe
+C:\Users\Ильхом\Desktop\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.pdb
+C:\Users\Ильхом\Desktop\visual studio\MidtermPrep\MidtermPrep\bin\Debug\MidtermPrep.exe.config
+C:\Users\Ильхом\Desktop\visual studio\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.exe
+C:\Users\Ильхом\Desktop\visual studio\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.pdb
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\bin\Debug\MidtermPrep.exe.config
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.exe
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.pdb
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\bin\Debug\MidtermPrep.exe
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\bin\Debug\MidtermPrep.pdb
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.csprojResolveAssemblyReference.cache
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.Form1.resources
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.Properties.Resources.resources
+D:\Шпоры\4th year I semester\visual studio\MidtermPrep\MidtermPrep\obj\Debug\MidtermPrep.csproj.GenerateResource.Cache
